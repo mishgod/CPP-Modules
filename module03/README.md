@@ -54,7 +54,7 @@ Make a `FragTrap` class that inherits from ClapTrap.
 The `FragTrap` class will have its construction and destruction messages. Also, proper
 construction/destruction chaining must be present.
 
-The specific function for `FragTrap` will be void `highFivesGuys(void)` and will display a positive high fives request on the standard output.
+The specific function for `FragTrap` will be `void highFivesGuys(void)` and will display a positive high fives request on the standard output.
 
 ## ex03
 

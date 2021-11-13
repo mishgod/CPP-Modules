@@ -15,7 +15,7 @@ Create a class `Cat` that inherits from `Animal`.
 
 (for the animal class the type can be left empty or put at any value).
 
-Every animal must be able to use the method `makeSound().` 
+Every animal must be able to use the method `makeSound()`. 
 This method display an appropriate message on the standard outputs based on the
 class.
 

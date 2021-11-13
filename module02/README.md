@@ -14,9 +14,9 @@ Write an orthodox class to represent fixed point numbers:
   * A destructor.
   * A copy constructor.
   * An assignation operator overload.
-  * A member function int `getRawBits( void ) const` that returns the raw
+  * A member function `int getRawBits( void ) const` that returns the raw
   value of the fixed point value.
-  * A member function void `setRawBits( int const raw )` that sets the raw
+  * A member function `void setRawBits( int const raw )` that sets the raw
   value of the fixed point value.
 
 ## ex01
